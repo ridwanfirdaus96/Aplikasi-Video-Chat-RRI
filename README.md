@@ -1,5 +1,7 @@
 # Aplikasi-Voice-Call-RRI
 
+Aplikasi voIP ini menggunakan gateway sebagai koneksi antara server dengan client. Biasanya digunakan oleh OS linux
+
 ### Virtual Host di Windows :
 
 Untuk Virtual Host nya menggunakan tutorial di url https://www.cloudways.com/blog/configure-virtual-host-on-windows-10-for-wordpress/
