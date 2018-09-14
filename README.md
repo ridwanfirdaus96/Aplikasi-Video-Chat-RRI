@@ -6,3 +6,6 @@ Untuk Virtual Host nya menggunakan tutorial di url https://www.cloudways.com/blo
 
 Virtual Host di Linux :
 https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts
+
+Gateway :
+https://www.3cx.com/voip-ip-pbx/
