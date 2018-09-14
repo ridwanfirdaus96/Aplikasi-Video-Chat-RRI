@@ -11,3 +11,6 @@ https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-ho
 
 Gateway :
 https://www.3cx.com/voip-ip-pbx/
+
+Deploy / Test :
+3CXPhone for windows
